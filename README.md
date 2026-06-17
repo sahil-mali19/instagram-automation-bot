@@ -54,7 +54,7 @@ Incoming DM text
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/sahilmali/instagram-automation-bot.git
+git clone https://github.com/sahil-mali19/instagram-automation-bot.git
 cd instagram-automation-bot
 
 # Install dependencies
